@@ -48,18 +48,18 @@ redirect_from:
 
  	<p align="justify">I am also developing a series of four reports on racial/ethnic inequalities in the ECE workforce, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the Center for Education and Civil Rights (CECR). My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
 	 
-  <h2 style="color: #5F9EA0;">News</h2>
+<h2 style="color: #5F9EA0;">News</h2>
 <h3>2024</h3>
   <div class="news-item">
 	<h3>Presented the paper, “Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers” at <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2024 in Baltimore, MD.</h3>
   </div>
  
   <div class="news-item">
-	<h3>Presented the paper, “Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India” at <a href="https://conference.cies.us/">Comparative and International Education Society (CIES) Annual Conference</a> 2024 in Miami, FL.</em></h3>
+	<h3>Presented the paper, “Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India” at <a href="https://conference.cies.us/">Comparative and International Education Society (CIES) Annual Conference</a> 2024 in Miami, FL.</h3>
   </div>
 
   <div class="news-item">
-	<h3>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference II and III </a> sessions by Dr. Scott Cunningham “Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India” at Comparative and International Education Society (CIES) Annual Conference 2024 in Miami, FL.</em></h3>
+	<h3>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference II and III</a> sessions by Dr. Scott Cunningham “Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India” at Comparative and International Education Society (CIES) Annual Conference 2024 in Miami, FL.</h3>
   </div>
 
  <h3>2023</h3>
@@ -73,9 +73,8 @@ redirect_from:
   </div>
  
   <div class="news-item">
-	<h3>Feb 2024 - Presented the paper, <a href="https://appam.confex.com/appam/2022/meetingapp.cgi/Paper/46135">Assessing the Extent and Scale of Caste-based School Segregation in India [Student Research Presentation]</a> at the <a href="https://www.appam.org/about-appam/">Association for Policy Analysis and Management (APPAM) </a> Fall Research Conference 2022 in Washington, D.C.</h3>
+	<h3>Feb 2024 - Presented the paper, <a href="https://appam.confex.com/appam/2022/meetingapp.cgi/Paper/46135">Assessing the Extent and Scale of Caste-based School Segregation in India [Student Research Presentation]</a> at the <a href="https://www.appam.org/about-appam/">Association for Policy Analysis and Management (APPAM)</a> Fall Research Conference 2022 in Washington, D.C.</h3>
  </div>
 
-</div>
 </body>
 </html>
