@@ -41,9 +41,8 @@ redirect_from:
   </style>
 </head>
 <body>
- 	<p align="justify">Hello! I'm a PhD student at Pennsylvania State University, specializing in the Informatics track with a focus on Data Science & Artificial Intelligence. I am advised by <a href="https://pike.psu.edu/dongwon/" target="_blank">Prof. Dongwon Lee</a> and a part of the <a href="https://pike.psu.edu/index.html" target="_blank">PIKE research group</a>. I am also a Visiting Scholar at New York University in <a href="https://hhexiy.github.io" target="_blank">Prof. He He</a>'s group.</p>
-
-<p align="justify">Hi, I’m a Ph.D. candidate in Education Policy at Penn State, with a dual focus in Comparative and International Education (CIED). I am co-advised by <a href="https://sites.psu.edu/frankenberg/">Dr. Erica Frankenberg</a> and <a href="https://sites.google.com/site/sooyongbyunshomepage/home">Dr. Soo-yong Byun</a>.</p>
+ 
+	<p align="justify">Hi, I’m a Ph.D. candidate in Education Policy at Penn State, with a dual focus in Comparative and International Education (CIED). I am co-advised by <a href="https://sites.psu.edu/frankenberg/">Dr. Erica Frankenberg</a> and <a href="https://sites.google.com/site/sooyongbyunshomepage/home">Dr. Soo-yong Byun</a>.</p>
    
  	<p align="justify">I am primarily a quantitative researcher focused on issues at the intersection of education policy and international development. My dissertation focuses on caste-based inequalities and segregation in Indian schools. It aims to measure school segregation in India, assess disparities in school infrastructural and learning facilities, as well as study the impact of the Right to Education (RTE) Act’s Section 12(1)(c) on caste-based segregation using school-level District Information System for Education (DISE) data from 2006-07 to 2017-18.</p>
 
