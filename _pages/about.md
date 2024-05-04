@@ -59,7 +59,7 @@ redirect_from:
   </div>
 
   <div class="news-item">
-	<h3>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference II and III</a> sessions by Dr. Scott Cunningham</h3>
+	<h3>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference II and III Mixtape sessions</a> by Dr. Scott Cunningham</h3>
   </div>
 
  <h3>2023</h3>
