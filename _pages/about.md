@@ -59,7 +59,7 @@ redirect_from:
   </div>
 
   <div class="news-item">
-	<h3>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference II and III</a> sessions by Dr. Scott Cunningham “Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India” at Comparative and International Education Society (CIES) Annual Conference 2024 in Miami, FL.</h3>
+	<h3>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference II and III</a> sessions by Dr. Scott Cunningham</h3>
   </div>
 
  <h3>2023</h3>
