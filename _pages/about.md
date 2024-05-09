@@ -23,13 +23,14 @@ redirect_from:
   	color: #87cefa;
 	}
 	.news-heading {
-   	border-bottom: 2px solid #035e7b;
+	color: #9cadce;
+   	border-bottom: 3px solid #035e7b;
 	}
 	h3 {
   	color: #000000;
 	}
 	.news-item {
-  	margin-bottom: 20px;
+  	margin-bottom: 10px;
   	border-left: 3px solid #000000;
   	padding-left: 10px;
 	}
