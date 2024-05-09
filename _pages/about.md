@@ -24,7 +24,7 @@ redirect_from:
 	}
 	.news-heading {
 	color: #396AA1;
-   	border-bottom: 5px solid #396AA1;
+   	border-bottom: 3px solid #396AA1 !important;
 	}
 	h3 {
   	color: #000000;
