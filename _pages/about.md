@@ -16,15 +16,15 @@ redirect_from:
   	color: ##000000;
 	}
 	a {
-  	color: #035e7b;
+  	color: #396AA1;
   	text-decoration: none;
 	}
 	a:hover {
-  	color: #859fff;
+  	color: #396AA1;
 	}
 	.news-heading {
-	color: #035e7b;
-   	border-bottom: 3px solid #035e7b;
+	color: #396AA1;
+   	border-bottom: 3px solid #396AA1;
 	}
 	h3 {
   	color: #000000;
