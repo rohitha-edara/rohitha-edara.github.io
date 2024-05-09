@@ -49,7 +49,7 @@ redirect_from:
  	<p align="justify">I am also developing a series of four reports on racial/ethnic inequalities in the ECE workforce, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the Center for Education and Civil Rights (CECR). My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
 	 
 <h2 style="color: ##87cefa;">News</h2>
-<h3>2024</h3>
+<h3 style="color: ##87cefa;">2024</h3>
   <div class="news-item">
 	<h3>Presented the paper, “Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers” at <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2024 in Baltimore, MD.</h3>
   </div>
@@ -62,7 +62,7 @@ redirect_from:
 	<h3>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference II and III Mixtape sessions</a> by Dr. Scott Cunningham</h3>
   </div>
 
- <h3>2023</h3>
+ <h3 style="color: ##87cefa;">2023</h3>
 
   <div class="news-item">
 	<h3>Presented the paper, “Racial/Ethnic Disparities in ECE Teaching and Community Contexts” at the <a href="https://ed.psu.edu/college-education-research-conference-2023">Penn State College of Education Research Annual Conference</a>.</h3>
