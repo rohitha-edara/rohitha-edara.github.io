@@ -16,7 +16,7 @@ redirect_from:
   	color: #333;
 	}
 	a {
-  	color: #5F9EA0;
+  	color: ##87cefa;
   	text-decoration: none;
 	}
 	a:hover {
@@ -24,7 +24,7 @@ redirect_from:
 	}
 	.news-item {
   	margin-bottom: 20px;
-  	border-left: 3px solid #5F9EA0;
+  	border-left: 3px solid ##87cefa;
   	padding-left: 10px;
 	}
 	.news-item h3 {
@@ -35,7 +35,7 @@ redirect_from:
   	margin-bottom: 5px;
 	}
 	hr {
-  	border-top: 2px solid #5F9EA0;
+  	border-top: 2px solid ##87cefa;
   	margin-top: 30px;
 	}
   </style>
@@ -48,7 +48,7 @@ redirect_from:
 
  	<p align="justify">I am also developing a series of four reports on racial/ethnic inequalities in the ECE workforce, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the Center for Education and Civil Rights (CECR). My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
 	 
-<h2 style="color: #5F9EA0;">News</h2>
+<h2 style="color: ##87cefa;">News</h2>
 <h3>2024</h3>
   <div class="news-item">
 	<h3>Presented the paper, “Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers” at <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2024 in Baltimore, MD.</h3>
