@@ -20,10 +20,10 @@ redirect_from:
   	text-decoration: none;
 	}
 	a:hover {
-  	color: #87cefa;
+  	color: #859fff;
 	}
 	.news-heading {
-	color: #bfd7ff;
+	color: #035e7b;
    	border-bottom: 3px solid #035e7b;
 	}
 	h3 {
