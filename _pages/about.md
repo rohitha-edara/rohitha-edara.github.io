@@ -10,17 +10,17 @@ redirect_from:
   <style>
    body {
   	font-family: 'Arial', sans-serif;
-  	color: #333;
+  	color: ##000000;
 	}
 	h1 {
-  	color: #333;
+  	color: ##000000;
 	}
 	a {
   	color: ##87cefa;
   	text-decoration: none;
 	}
 	a:hover {
-  	color: #388e3c;
+  	color: #87cefa;
 	}
 	.news-item {
   	margin-bottom: 20px;
@@ -29,7 +29,7 @@ redirect_from:
 	}
 	.news-item h3 {
   	margin-top: 0;
-  	color: #333;
+  	color: ##000000;
 	}
 	.news-item p {
   	margin-bottom: 5px;
