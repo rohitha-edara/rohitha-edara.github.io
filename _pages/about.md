@@ -24,14 +24,14 @@ redirect_from:
 	}
 	.news-heading {
 	color: #396AA1;
-   	border-bottom: 3px solid #396AA1;
+   	border-bottom: 5px solid #396AA1;
 	}
 	h3 {
   	color: #000000;
 	}
 	.news-item {
   	margin-bottom: 10px;
-  	border-left: 3px solid #000000;
+  	border-left: 3px solid #396AA1;
   	padding-left: 10px;
 	}
   </style>
