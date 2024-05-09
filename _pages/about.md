@@ -23,7 +23,7 @@ redirect_from:
   	color: #87cefa;
 	}
 	.news-item {
-  	margin-bottom: 20px;
+  	margin-bottom: 20px ##87cefa;
   	border-left: 3px solid ##87cefa;
   	padding-left: 10px;
 	}
