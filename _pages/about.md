@@ -22,14 +22,22 @@ redirect_from:
 	a:hover {
   	color: #87cefa;
 	}
+	h2 {
+  	color: ##87cefa;
+	}
+	.border-after-h2 {
+        border-bottom: 2px solid #87cefa; /* Add a border after h2 */
+        display: inline-block; /* Ensures border only takes necessary space */
+        margin-bottom: 10px; /* Adjust margin as needed */
+        }
 	.news-item {
   	margin-bottom: 20px;
-  	border-left: 5px solid ##87cefa;
+  	border-left: 3px solid ##87cefa;
   	padding-left: 10px;
 	}
 	.news-item h3 {
   	margin-top: 0;
-  	color: ##000000;
+  	color: ##87cefa;
 	}
 	.news-item p {
   	margin-bottom: 5px;
