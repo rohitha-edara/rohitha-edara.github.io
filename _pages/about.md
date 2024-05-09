@@ -23,7 +23,7 @@ redirect_from:
   	color: #87cefa;
 	}
 	.news-heading {
-	color: #9cadce;
+	color: #bfd7ff;
    	border-bottom: 3px solid #035e7b;
 	}
 	h3 {
