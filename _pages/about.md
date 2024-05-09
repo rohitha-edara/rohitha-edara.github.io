@@ -26,25 +26,14 @@ redirect_from:
   	color: ##87cefa;
 	}
 	.border-after-h2 {
-        border-bottom: 2px solid #87cefa; /* Add a border after h2 */
+        border-bottom:5px solid #87cefa; /* Add a border after h2 */
         display: inline-block; /* Ensures border only takes necessary space */
-        margin-bottom: 10px; /* Adjust margin as needed */
+        margin-bottom: 0px; /* Adjust margin as needed */
         }
 	.news-item {
   	margin-bottom: 20px;
   	border-left: 3px solid ##87cefa;
   	padding-left: 10px;
-	}
-	.news-item h3 {
-  	margin-top: 0;
-  	color: ##87cefa;
-	}
-	.news-item p {
-  	margin-bottom: 5px;
-	}
-	hr {
-  	border-top: 5px solid ##87cefa;
-  	margin-top: 30px;
 	}
   </style>
 </head>
@@ -52,9 +41,9 @@ redirect_from:
 
 <p align="justify">Hi, I’m a Ph.D. candidate in Education Policy at Penn State, with a dual focus in Comparative and International Education (CIED). I am co-advised by <a href="https://sites.psu.edu/frankenberg/">Dr. Erica Frankenberg</a> and <a href="https://sites.google.com/site/sooyongbyunshomepage/home">Dr. Soo-yong Byun</a>.</p>
    
- 	<p align="justify">I am primarily a quantitative researcher focused on issues at the intersection of education policy and international development. My dissertation focuses on caste-based inequalities and segregation in Indian schools. It aims to measure school segregation in India, assess disparities in school infrastructural and learning facilities, as well as study the impact of the Right to Education (RTE) Act’s Section 12(1)(c) on caste-based segregation using school-level District Information System for Education (DISE) data from 2006-07 to 2017-18.</p>
+ <p align="justify">I am primarily a quantitative researcher focused on issues at the intersection of education policy and international development. My dissertation focuses on caste-based inequalities and segregation in Indian schools. It aims to measure school segregation in India, assess disparities in school infrastructural and learning facilities, as well as study the impact of the Right to Education (RTE) Act’s Section 12(1)(c) on caste-based segregation using school-level District Information System for Education (DISE) data from 2006-07 to 2017-18.</p>
 
- 	<p align="justify">I am also developing a series of four reports on racial/ethnic inequalities in the ECE workforce, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the Center for Education and Civil Rights (CECR). My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
+ <p align="justify">I am also developing a series of four reports on racial/ethnic inequalities in the ECE workforce, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the Center for Education and Civil Rights (CECR). My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
 	 
 <h2 style="color: ##87cefa;">News</h2>
 <span class="border-after-h2"></span>
