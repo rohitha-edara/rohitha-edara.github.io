@@ -25,6 +25,7 @@ redirect_from:
 	.news-heading {
 	color: #000000;
    	border-bottom: 3px solid #396AA1 !important;
+	font-family: 'Helvetica', sans-serif;
 	}
 	h3 {
   	color: #000000;
