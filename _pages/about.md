@@ -16,14 +16,14 @@ redirect_from:
   	color: ##000000;
 	}
 	a {
-  	color: ##87cefa;
+  	color: #87cefa;
   	text-decoration: none;
 	}
 	a:hover {
   	color: #87cefa;
 	}
 	h2 {
-  	color: ##87cefa;
+  	color: #87cefa;
 	}
 	.border-after-h2 {
         border-bottom:5px solid #87cefa; /* Add a border after h2 */
@@ -32,7 +32,7 @@ redirect_from:
         }
 	.news-item {
   	margin-bottom: 20px;
-  	border-left: 3px solid ##87cefa;
+  	border-left: 3px solid #87cefa;
   	padding-left: 10px;
 	}
   </style>
