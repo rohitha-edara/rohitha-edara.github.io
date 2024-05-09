@@ -48,11 +48,11 @@ redirect_from:
 
 <h3>2024</h3>
   <div class="news-item">
-	<h4>Presented the paper, “Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers” at <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2024 in Baltimore, MD.</h4>
+	<h4>Presented the paper, 'Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers' at <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2024 in Baltimore, MD.</h4>
   </div>
  
   <div class="news-item">
-	<h4>Presented the paper, “Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India” at <a href="https://conference.cies.us/">Comparative and International Education Society (CIES) Annual Conference</a> 2024 in Miami, FL.</h4>
+	<h4>Presented the paper, 'Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India' at <a href="https://conference.cies.us/">Comparative and International Education Society (CIES) Annual Conference</a> 2024 in Miami, FL.</h4>
   </div>
 
   <div class="news-item">
@@ -62,15 +62,19 @@ redirect_from:
  <h3>2023</h3>
 
   <div class="news-item">
-	<h4>Presented the paper, “Racial/Ethnic Disparities in ECE Teaching and Community Contexts” at the <a href="https://ed.psu.edu/college-education-research-conference-2023">Penn State College of Education Research Annual Conference</a>.</h4>
+	<h4>Presented the paper, 'Racial/Ethnic Disparities in ECE Teaching and Community Contexts' at the <a href="https://ed.psu.edu/college-education-research-conference-2023">Penn State College of Education Research Annual Conference</a>.</h4>
   </div>
  
   <div class="news-item">
-	<h4>Presented the poster, “Assessing the Impact of India's Right to Education (RTE) Act, 2009 on Caste-based School Segregation at the <a href="https://aefpweb.org/">Association for Education Finance and Policy (AEFP)</a> Annual Conference 2023 in Denver, CO.</h4>
+	<h4>Presented the poster, 'Assessing the Impact of India's Right to Education (RTE) Act, 2009 on Caste-based School Segregation' at the <a href="https://aefpweb.org/">Association for Education Finance and Policy (AEFP)</a> Annual Conference 2023 in Denver, CO.</h4>
+  </div>
+
+<div class="news-item">
+	<h4> Paper with <a href="https://maithreyigopalan.mystrikingly.com/?">Dr. Maithreyi Gopalan</a>, <a href="[https://aefpweb.org/](https://journals.sagepub.com/doi/full/10.1177/23328584231177616)">'Health Policies as Education Policies? A Review of Causal Evidence and Mechanisms'</a>, was accepted for publication at AERA Open.</h4>
   </div>
  
   <div class="news-item">
-	<h4>Feb 2024 - Presented the paper, <a href="https://appam.confex.com/appam/2022/meetingapp.cgi/Paper/46135">Assessing the Extent and Scale of Caste-based School Segregation in India [Student Research Presentation]</a> at the <a href="https://www.appam.org/about-appam/">Association for Policy Analysis and Management (APPAM)</a> Fall Research Conference 2022 in Washington, D.C.</h4>
+	<h4>Presented the paper, <a href="https://appam.confex.com/appam/2022/meetingapp.cgi/Paper/46135">Assessing the Extent and Scale of Caste-based School Segregation in India [Student Research Presentation]</a> at the <a href="https://www.appam.org/about-appam/">Association for Policy Analysis and Management (APPAM)</a> Fall Research Conference 2022 in Washington, D.C.</h4>
  </div>
 
 </body>
