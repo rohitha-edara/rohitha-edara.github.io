@@ -23,8 +23,8 @@ redirect_from:
   	color: #87cefa;
 	}
 	.news-item {
-  	margin-bottom: 20px ##87cefa;
-  	border-left: 3px solid ##87cefa;
+  	margin-bottom: 20px;
+  	border-left: 5px solid ##87cefa;
   	padding-left: 10px;
 	}
 	.news-item h3 {
@@ -35,7 +35,7 @@ redirect_from:
   	margin-bottom: 5px;
 	}
 	hr {
-  	border-top: 2px solid ##87cefa;
+  	border-top: 5px solid ##87cefa;
   	margin-top: 30px;
 	}
   </style>
