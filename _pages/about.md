@@ -58,7 +58,7 @@ redirect_from:
   </div>
 
   <div class="news-item">
-	<h4>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference II and III Mixtape sessions</a> by Dr. Scott Cunningham</h4>
+	<h4>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference Mixtape sessions</a> II (advances in difference-in-differences) and III (synthetic controls) by Dr. Scott Cunningham.</h4>
   </div>
 
  <h3>2023</h3>
@@ -69,6 +69,10 @@ redirect_from:
  
   <div class="news-item">
 	<h4>Presented the poster, 'Assessing the Impact of India's Right to Education (RTE) Act, 2009 on Caste-based School Segregation' at the <a href="https://aefpweb.org/">Association for Education Finance and Policy (AEFP)</a> Annual Conference 2023 in Denver, CO.</h4>
+  </div>
+
+   <div class="news-item">
+	<h4>Got to participate in the <a href="https://sicss.io/2023/howard-mathematica/">Summer Institute in Computational Social Science (SICSS) - Howard/Mathematica</a></h4>
   </div>
 
 <div class="news-item">
