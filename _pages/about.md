@@ -22,7 +22,7 @@ redirect_from:
   	color: #000000;
   	font-family: 'Questrial', sans-serif;
   	font-size: 14.0pt;
-  	margin-top: 10px;
+  	margin-top: 16px;
 	}
 	a {
   	color: #396AA1;
@@ -67,7 +67,7 @@ redirect_from:
   </div>
 
   <div class="news-item">
-	<p>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference Mixtape sessions</a> II (advances in difference-in-differences) and III (synthetic controls) by Dr. Scott Cunningham.</p>
+	<p>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference Mixtape sessions</a> II (advances in difference-in-differences) and III (synthetic control) by Dr. Scott Cunningham.</p>
   </div>
 
  <h2>2023</h2>
