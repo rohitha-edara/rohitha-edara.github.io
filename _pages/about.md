@@ -9,11 +9,19 @@ redirect_from:
 <head>
   <style>
    body {
-  	font-family: 'Arial', sans-serif;
-  	color: ##000000;
+  	font-family: 'Aptos', sans-serif;
+  	color: #000000;
+  	font-size: 12.0pt;
 	}
 	h1 {
-  	color: ##000000;
+  	color: #000000;
+  	font-family: 'Aptos'
+  	font-size: 16.0pt;
+	}
+	h1 {
+  	color: #000000;
+  	font-family: 'Aptos'
+  	font-size: 14.0pt;
 	}
 	a {
   	color: #396AA1;
@@ -23,15 +31,15 @@ redirect_from:
   	color: #396AA1;
 	}
 	.news-heading {
-	color: #000000;
+		color: #000000;
+		font-family: 'Aptos';
+  	font-size: 14.0pt;
    	border-bottom: 3px solid #396AA1 !important;
-	font-family: 'Helvetica', sans-serif;
-	}
-	h3 {
-  	color: #000000;
-	margin-bottom: 5px;
+		
 	}
 	.news-item {
+		font-family: 'Aptos'
+  	font-size: 14.0pt;
   	margin-bottom: 10px;
   	border-left: 3px solid #396AA1;
   	padding-left: 10px;
@@ -46,41 +54,41 @@ redirect_from:
 
 <p align="justify">I am also developing a series of four reports on racial/ethnic inequalities in the ECE workforce, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a>. My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
 	 
-<h2 class="news-heading">News</h2>
+<h1 class="news-heading">News</h1>
 
-<h3>2024</h3>
+<h2>2024</h2>
   <div class="news-item">
-	<h4>Presented the paper, 'Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers' at <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2024 in Baltimore, MD.</h4>
+	<p>Presented the paper, 'Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers' at <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2024 in Baltimore, MD.</p>
   </div>
  
   <div class="news-item">
-	<h4>Presented the paper, 'Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India' at <a href="https://conference.cies.us/">Comparative and International Education Society (CIES) Annual Conference</a> 2024 in Miami, FL.</h4>
+	<p>Presented the paper, 'Assessing the Impact of Private School Sector Growth on Caste-based Segregation in India' at <a href="https://conference.cies.us/">Comparative and International Education Society (CIES) Annual Conference</a> 2024 in Miami, FL.</p>
   </div>
 
   <div class="news-item">
-	<h4>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference Mixtape sessions</a> II (advances in difference-in-differences) and III (synthetic controls) by Dr. Scott Cunningham.</h4>
+	<p>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference Mixtape sessions</a> II (advances in difference-in-differences) and III (synthetic controls) by Dr. Scott Cunningham.</p>
   </div>
 
  <h3>2023</h3>
 
   <div class="news-item">
-	<h4>Presented the paper, 'Racial/Ethnic Disparities in ECE Teaching and Community Contexts' at the <a href="https://ed.psu.edu/college-education-research-conference-2023">Penn State College of Education Research Annual Conference</a>.</h4>
+	<p>Presented the paper, 'Racial/Ethnic Disparities in ECE Teaching and Community Contexts' at the <a href="https://ed.psu.edu/college-education-research-conference-2023">Penn State College of Education Research Annual Conference</a>.</p>
   </div>
  
   <div class="news-item">
-	<h4>Presented the poster, 'Assessing the Impact of India's Right to Education (RTE) Act, 2009 on Caste-based School Segregation' at the <a href="https://aefpweb.org/">Association for Education Finance and Policy (AEFP)</a> Annual Conference 2023 in Denver, CO.</h4>
+	<p>Presented the poster, 'Assessing the Impact of India's Right to Education (RTE) Act, 2009 on Caste-based School Segregation' at the <a href="https://aefpweb.org/">Association for Education Finance and Policy (AEFP)</a> Annual Conference 2023 in Denver, CO.</p>
   </div>
 
    <div class="news-item">
-	<h4>Got to participate in the <a href="https://sicss.io/2023/howard-mathematica/">Summer Institute in Computational Social Science (SICSS) - Howard/Mathematica</a></h4>
+	<p>Got to participate in the <a href="https://sicss.io/2023/howard-mathematica/">Summer Institute in Computational Social Science (SICSS) - Howard/Mathematica</a>.</p>
   </div>
 
 <div class="news-item">
-	<h4> Paper with <a href="https://maithreyigopalan.mystrikingly.com/?">Dr. Maithreyi Gopalan</a>, <a href="[https://aefpweb.org/](https://journals.sagepub.com/doi/full/10.1177/23328584231177616)">'Health Policies as Education Policies? A Review of Causal Evidence and Mechanisms'</a>, was accepted for publication at AERA Open.</h4>
+	<p> Paper with <a href="https://maithreyigopalan.mystrikingly.com/?">Dr. Maithreyi Gopalan</a>, <a href="[https://aefpweb.org/](https://journals.sagepub.com/doi/full/10.1177/23328584231177616)">'Health Policies as Education Policies? A Review of Causal Evidence and Mechanisms'</a>, was accepted for publication at AERA Open.</p>
   </div>
  
   <div class="news-item">
-	<h4>Presented the paper, <a href="https://appam.confex.com/appam/2022/meetingapp.cgi/Paper/46135">Assessing the Extent and Scale of Caste-based School Segregation in India [Student Research Presentation]</a> at the <a href="https://www.appam.org/about-appam/">Association for Policy Analysis and Management (APPAM)</a> Fall Research Conference 2022 in Washington, D.C.</h4>
+	<p>Presented the paper, <a href="https://appam.confex.com/appam/2022/meetingapp.cgi/Paper/46135">Assessing the Extent and Scale of Caste-based School Segregation in India [Student Research Presentation]</a> at the <a href="https://www.appam.org/about-appam/">Association for Policy Analysis and Management (APPAM)</a> Fall Research Conference 2022 in Washington, D.C.</p>
  </div>
 
 </body>
