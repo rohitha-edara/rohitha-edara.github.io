@@ -9,18 +9,18 @@ redirect_from:
 <head>
   <style>
    body {
-  	font-family: 'Aptos', sans-serif;
+  	font-family: 'Questrial', sans-serif;
   	color: #000000;
   	font-size: 12.0pt;
 	}
 	h1 {
   	color: #000000;
-  	font-family: 'Aptos'
+  	font-family: 'Questrial', sans-serif;
   	font-size: 16.0pt;
 	}
 	h1 {
   	color: #000000;
-  	font-family: 'Aptos'
+  	font-family: 'Questrial', sans-serif;
   	font-size: 14.0pt;
 	}
 	a {
@@ -32,13 +32,13 @@ redirect_from:
 	}
 	.news-heading {
 		color: #000000;
-		font-family: 'Aptos';
-  	font-size: 14.0pt;
+		font-family: 'Questrial', sans-serif;
+  	font-size: 16.0pt;
    	border-bottom: 3px solid #396AA1 !important;
 		
 	}
 	.news-item {
-		font-family: 'Aptos'
+		font-family: 'Questrial', sans-serif;
   	font-size: 14.0pt;
   	margin-bottom: 10px;
   	border-left: 3px solid #396AA1;
@@ -50,7 +50,7 @@ redirect_from:
 
 <p align="justify">Hi, I’m a Ph.D. candidate in Education Policy at Penn State, with a dual focus in Comparative and International Education (CIED). I am co-advised by <a href="https://sites.psu.edu/frankenberg/">Dr. Erica Frankenberg</a> and <a href="https://sites.google.com/site/sooyongbyunshomepage/home">Dr. Soo-yong Byun</a>.</p>
    
-<p align="justify">I am primarily a quantitative researcher focused on issues at the intersection of education policy and international development. My dissertation focuses on caste-based inequalities and segregation in Indian schools. It aims to measure school segregation in India, assess disparities in school infrastructural and learning facilities, as well as study the impact of the Right to Education (RTE) Act’s Section 12(1)(c) on caste-based segregation using school-level District Information System for Education (DISE) data from 2006-07 to 2017-18.</p>
+<p align="justify">I am primarily a quantitative researcher focused on issues at the intersection of education policy and international development. My dissertation focuses on <b>caste-based inequalities and segregation in Indian schools</b>. It aims to measure school segregation in India, assess disparities in school infrastructural and learning facilities, as well as study the impact of the Right to Education (RTE) Act’s Section 12(1)(c) on caste-based segregation using school-level District Information System for Education (DISE) data from 2006-07 to 2017-18.</p>
 
 <p align="justify">I am also developing a series of four reports on racial/ethnic inequalities in the ECE workforce, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a>. My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
 	 
@@ -69,7 +69,7 @@ redirect_from:
 	<p>Attended the <a href="https://www.mixtapesessions.io/sessions/">Causal Inference Mixtape sessions</a> II (advances in difference-in-differences) and III (synthetic controls) by Dr. Scott Cunningham.</p>
   </div>
 
- <h3>2023</h3>
+ <h2>2023</h2>
 
   <div class="news-item">
 	<p>Presented the paper, 'Racial/Ethnic Disparities in ECE Teaching and Community Contexts' at the <a href="https://ed.psu.edu/college-education-research-conference-2023">Penn State College of Education Research Annual Conference</a>.</p>
