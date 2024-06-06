@@ -18,7 +18,7 @@ redirect_from:
   	font-family: 'Questrial', sans-serif;
   	font-size: 16.0pt;
 	}
-	h1 {
+	h2 {
   	color: #000000;
   	font-family: 'Questrial', sans-serif;
   	font-size: 14.0pt;
@@ -34,12 +34,12 @@ redirect_from:
 		color: #000000;
 		font-family: 'Questrial', sans-serif;
   	font-size: 16.0pt;
+  	margin-bottom: 5px;
    	border-bottom: 3px solid #396AA1 !important;
-		
 	}
 	.news-item {
 		font-family: 'Questrial', sans-serif;
-  	font-size: 14.0pt;
+  	font-size: 12.0pt;
   	margin-bottom: 10px;
   	border-left: 3px solid #396AA1;
   	padding-left: 10px;
@@ -58,7 +58,7 @@ redirect_from:
 
 <h2>2024</h2>
   <div class="news-item">
-	<p>Presented the paper, 'Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers' at <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2024 in Baltimore, MD.</p>
+	<p>Presented the paper, 'Investigating Mechanisms Contributing to Racial-Ethnic Disparities in Wages and Benefits of ECE Teachers' at <a href="https://aefpweb.org/">Association for Education Finance and Policy (AEFP)</a> Annual Conference 2024 in Baltimore, MD.</p>
   </div>
  
   <div class="news-item">
@@ -76,7 +76,7 @@ redirect_from:
   </div>
  
   <div class="news-item">
-	<p>Presented the poster, 'Assessing the Impact of India's Right to Education (RTE) Act, 2009 on Caste-based School Segregation' at the <a href="https://aefpweb.org/">Association for Education Finance and Policy (AEFP)</a> Annual Conference 2023 in Denver, CO.</p>
+	<p>Presented the poster, 'Assessing the Impact of India's Right to Education (RTE) Act, 2009 on Caste-based School Segregation' at the <a href="https://aefpweb.org/">AEFP</a> Annual Conference 2023 in Denver, CO.</p>
   </div>
 
    <div class="news-item">
