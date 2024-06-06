@@ -22,6 +22,7 @@ redirect_from:
   	color: #000000;
   	font-family: 'Questrial', sans-serif;
   	font-size: 14.0pt;
+  	margin-top: 2px;
 	}
 	a {
   	color: #396AA1;
@@ -32,17 +33,17 @@ redirect_from:
 	}
 	.news-heading {
 		color: #000000;
-		font-family: 'Questrial', sans-serif;
+		font-family: 'Rosario', sans-serif;
   	font-size: 16.0pt;
-  	margin-bottom: 5px;
-   	border-bottom: 3px solid #396AA1 !important;
+  	padding-bottom: 5px;
+   	border-bottom: #396AA1 3px solid;
 	}
 	.news-item {
 		font-family: 'Questrial', sans-serif;
   	font-size: 12.0pt;
   	margin-bottom: 10px;
-  	border-left: 3px solid #396AA1;
-  	padding-left: 10px;
+  	border-left: #396AA1 3px solid;
+  	padding-left: 20px;
 	}
   </style>
 </head>
