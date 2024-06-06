@@ -22,7 +22,7 @@ redirect_from:
   	color: #000000;
   	font-family: 'Questrial', sans-serif;
   	font-size: 14.0pt;
-  	margin-top: 2px;
+  	margin-top: 10px;
 	}
 	a {
   	color: #396AA1;
@@ -33,9 +33,9 @@ redirect_from:
 	}
 	.news-heading {
 		color: #000000;
-		font-family: 'Rosario', sans-serif;
+		font-family: 'Questrial', sans-serif;
   	font-size: 16.0pt;
-  	padding-bottom: 5px;
+  	padding-bottom: 10px;
    	border-bottom: #396AA1 3px solid;
 	}
 	.news-item {
@@ -43,7 +43,7 @@ redirect_from:
   	font-size: 12.0pt;
   	margin-bottom: 10px;
   	border-left: #396AA1 3px solid;
-  	padding-left: 20px;
+  	padding-left: 15px;
 	}
   </style>
 </head>
@@ -53,7 +53,7 @@ redirect_from:
    
 <p align="justify">I am primarily a quantitative researcher focused on issues at the intersection of education policy and international development. My dissertation focuses on <b>caste-based inequalities and segregation in Indian schools</b>. It aims to measure school segregation in India, assess disparities in school infrastructural and learning facilities, as well as study the impact of the Right to Education (RTE) Act’s Section 12(1)(c) on caste-based segregation using school-level District Information System for Education (DISE) data from 2006-07 to 2017-18.</p>
 
-<p align="justify">I am also developing a series of four reports on racial/ethnic inequalities in the ECE workforce, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a>. My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
+<p align="justify">I am also developing a series of four reports on <b>racial/ethnic inequalities in the ECE workforce<b>, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a>. My other research interests include policy interventions surrounding the care and protection of children in shelter homes and all children outside parental care.</p>
 	 
 <h1 class="news-heading">News</h1>
 
