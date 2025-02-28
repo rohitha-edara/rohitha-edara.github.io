@@ -58,7 +58,7 @@ redirect_from:
 <h1 class="news-heading">News</h1>
 <h2>2025</h2>
   <div class="news-item">
-	<p>Submitted my paper, 'The Extent, Scale, and Patterns of Caste-based Segregation in Indian Schools' to the <a href="https://www.sciencedirect.com/journal/international-journal-of-educational-development">International Journal of Educational Development</a> Annual Conference 2024 in Baltimore, MD.</p>
+	<p>Submitted my paper, 'The Extent, Scale, and Patterns of Caste-based Segregation in Indian Schools' to the <a href="https://www.sciencedirect.com/journal/international-journal-of-educational-development">International Journal of Educational Development</a></p>
   </div>
  
 <h2>2024</h2>
