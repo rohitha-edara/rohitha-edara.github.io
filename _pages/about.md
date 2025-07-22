@@ -58,7 +58,7 @@ redirect_from:
 <h1 class="news-heading">News</h1>
 <h2>2025</h2>
   <div class="news-item">
-	<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0738059325001452">'Extent, Patterns, and Geographic Scale of Caste-based Segregation in Indian Schools</a>' published in the <a href="https://www.sciencedirect.com/journal/international-journal-of-educational-development">International Journal of Educational Development</a>.</p>
+	<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0738059325001452">Extent, Patterns, and Geographic Scale of Caste-based Segregation in Indian Schools</a> published in the <a href="https://www.sciencedirect.com/journal/international-journal-of-educational-development">International Journal of Educational Development</a>.</p>
   </div>
  
 <h2>2024</h2>
