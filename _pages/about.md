@@ -58,7 +58,7 @@ redirect_from:
 <h1 class="news-heading">News</h1>
 <h2>2025</h2>
   <div class="news-item">
-	<p>Reports on <a href="cecr.psu.edu/ece-reports/">Racial/Ethnic Composition and Segregation in ECE and Racial/Ethnic Inequalities in the Teaching Contexts of ECE Workforce published on the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a> website.</p>
+	<p>Reports on <a href="cecr.psu.edu/ece-reports/">Racial/Ethnic Composition and Segregation in ECE and Racial/Ethnic Inequalities in the Teaching Contexts of ECE Workforce</a> published on the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a> website.</p>
   </div>
   
   <div class="news-item">
