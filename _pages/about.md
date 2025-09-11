@@ -99,6 +99,5 @@ redirect_from:
   <div class="news-item">
 	<p>Presented the paper, <a href="https://appam.confex.com/appam/2022/meetingapp.cgi/Paper/46135">Assessing the Extent and Scale of Caste-based School Segregation in India [Student Research Presentation]</a> at the <a href="https://www.appam.org/about-appam/">Association for Policy Analysis and Management (APPAM)</a> Fall Research Conference 2022 in Washington, D.C.</p>
  </div>
-
 </body>
 </html>
