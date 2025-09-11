@@ -49,14 +49,18 @@ redirect_from:
 </head>
 <body>
 
-<p align="justify">Hi, I’m a Ph.D. candidate in Education Policy at Penn State, with a dual focus in Comparative and International Education (CIED). I am co-advised by <a href="https://sites.psu.edu/frankenberg/">Dr. Erica Frankenberg</a> and <a href="https://sites.google.com/site/sooyongbyunshomepage/home">Dr. Soo-yong Byun</a>.</p>
-   
-<p align="justify">I am primarily a quantitative researcher focused issues surrounding <b>educational equity and desegregation</b>. My dissertation focuses on <b>caste-based inequalities and segregation in Indian schools</b>. It aims to measure school segregation in India, assess disparities in school infrastructural and learning facilities, as well as study the impact of the Right to Education (RTE) Act’s Section 12(1)(c) on caste-based segregation using school-level District Information System for Education (DISE) data from 2006-07 to 2017-18.</p>
+<p align="justify">Hi, I am a recent graduate of the Ph.D. program in Education Policy and Leadership, with a dual focus in Comparative and International Education (CIED), at Pennsylvania State University. I am primarily a quantitative researcher and my current research focuses on educational inequities and segregation, with particular attention to how disparities in schooling experiences translate into differences in access and outcomes for historically marginalized student populations. I am advised by <a href="https://sites.psu.edu/frankenberg/">Dr. Erica Frankenberg</a>.
 
-<p align="justify">I am also interested in studying <b>inequalities in teacher preparation, benefits, and shortages</b>. In this vein, I am developing a series of four reports on <b>racial/ethnic inequalities in the ECE workforce</b>, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a>. My other research interests include policy interventions surrounding the care and protection of children in shelter homes and, more generally, all children outside parental care.</p>
+<p align="justify">My dissertation included three studies that explored <b>caste-based segregation and inequalities in Indian schools</b> and evaluated the impact of an affirmative action policy on access and segregation in private schools. The first study, aimed at measuring the extent and scale of segregation, is published here: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0738059325001452">
+
+<p align="justify">I am also interested in studying <b>inequalities in teacher preparation, benefits, and shortages</b>. In this vein, I am developing a series of four reports on <b>racial/ethnic inequalities in the ECE workforce</b>, led by Dr. Frankenberg and co-authored with Dr. Karen Babbs Hollett for the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a>. The first two reports in this series can be found here: <a href="cecr.psu.edu/ece-reports/"> My other research interests include policy interventions surrounding the care and protection of children in shelter homes and, more generally, all children outside parental care.</p>
 	 
 <h1 class="news-heading">News</h1>
 <h2>2025</h2>
+  <div class="news-item">
+	<p>Reports on <a href="cecr.psu.edu/ece-reports/">Racial/Ethnic Composition and Segregation in ECE and Racial/Ethnic Inequalities in the Teaching Contexts of ECE Workforce published on the <a href="https://cecr.ed.psu.edu/">Center for Education and Civil Rights (CECR)</a> website.</p>
+  </div>
+  
   <div class="news-item">
 	<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0738059325001452">Extent, Patterns, and Geographic Scale of Caste-based Segregation in Indian Schools</a> published in the <a href="https://www.sciencedirect.com/journal/international-journal-of-educational-development">International Journal of Educational Development</a>.</p>
   </div>
