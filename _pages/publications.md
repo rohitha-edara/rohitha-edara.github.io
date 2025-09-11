@@ -6,7 +6,117 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="[{{site.author.googlescholar}}](https://scholar.google.com/citations?user=tnZI-hYAAAAJ&hl=en&oi=ao)">my Google Scholar profile</a>.</div>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Publications</title>
+
+  <style>
+   body {
+  	font-family: 'Questrial', sans-serif;
+  	color: #000000;
+  	font-size: 12.0pt;
+	}
+
+    .container {
+    display: flex;
+    margin-bottom: 20px; /* Add margin between containers */
+  }
+
+  .content {
+    max-width: 1000px; /* Adjust the maximum width as needed */
+    display: flex;
+    align-items: center; /* Center align items vertically */
+    margin-top: 20px; /* Add space between each item */
+  }
+
+  .image {
+    flex: 2; /* Make the image container flexible */
+    margin-right: 20px; /* Add space between image and text */
+    text-align: center; /* Center align image */
+    order: -1; /* Set the order of the image container to be first */
+  }
+
+    .image img {
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Add border radius for rounded corners */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Add box shadow for image */
+  }
+
+  .text {
+    flex: 3; /* Make the text container wider */
+  }
+
+  .text strong {
+    font-size: 18px; /* Increase font size for strong text */
+  }
+
+  .text p {
+    font-size: 16px; /* Increase font size for paragraph text */
+    line-height: 1.5; /* Adjust line height for better readability */
+    margin-top: 5px; /* Add margin at the top of paragraphs */
+  }
+
+  .text a {
+    color: #396AA1; /* Change link color */
+    text-decoration: none; /* Remove default underline */
+    font-weight: bold; /* Make links bold */
+    margin-right: 10px; /* Add margin between links */
+  }
+
+  hr {
+    border: none;
+    border-top: 2px solid #ccc; /* Change horizontal line color */
+    margin: 20px 0; /* Add margin for spacing */
+  }
+
+	h1 {
+  	color: #000000;
+  	font-family: 'Questrial', sans-serif;
+  	font-size: 16.0pt;
+	}
+</style>
+</head>
+
+<h1>Peer-Reviewed Journal Articles</h1>
+<div class="container">
+  <div class="content">
+    <!-- Image container -->
+    <div class="image">
+      <img src="/images/India-Seg.jpg" alt="Image Description">
+    </div>
+    <!-- Text container -->
+    <div class="text">
+      <strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0738059325001452">Extent, Patterns, and Geographic Scale of Caste-based Segregation in Indian Schools</a></strong><br>
+      Authors: <strong>Rohitha Edara</strong><br>
+      International Journal of Educational Development
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="content">
+    <!-- Image container -->
+    <div class="image">
+      <img src="/images/prisma.png" alt="Image Description">
+    </div>
+    <!-- Text container -->
+    <div class="text">
+      <strong><a href="https://journals.sagepub.com/doi/full/10.1177/23328584231177616">Health Policies as Education Policies? A Review of Causal Evidence and Mechanisms</a></strong><br>
+      Authors: Maithreyi Gopalan, <strong>Rohitha Edara</strong><br>
+      AERA Open
+    </div>
+  </div>
+</div>
+
+<hr style="width:1000px; margin: auto;" /> <!-- Horizontal line between segments -->
+
+  
+<h1>Policy/Research Reports</h1>
+
 {% endif %}
 
 {% include base_path %}
