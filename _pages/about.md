@@ -47,6 +47,7 @@ redirect_from:
 	}
   </style>
 </head>
+	
 <body>
 
 <p align="justify">Hi, I am a recent graduate of the Ph.D. program in Education Policy and Leadership, with a dual focus in Comparative and International Education (CIED), at Pennsylvania State University. I am primarily a quantitative researcher and my current research focuses on educational inequities and segregation, with particular attention to how disparities in schooling experiences translate into differences in access and outcomes for historically marginalized student populations. I am advised by <a href="https://sites.psu.edu/frankenberg/">Dr. Erica Frankenberg</a>.
@@ -99,5 +100,6 @@ redirect_from:
   <div class="news-item">
 	<p>Presented the paper, <a href="https://appam.confex.com/appam/2022/meetingapp.cgi/Paper/46135">Assessing the Extent and Scale of Caste-based School Segregation in India [Student Research Presentation]</a> at the <a href="https://www.appam.org/about-appam/">Association for Policy Analysis and Management (APPAM)</a> Fall Research Conference 2022 in Washington, D.C.</p>
  </div>
+
 </body>
 </html>
